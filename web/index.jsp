@@ -20,7 +20,7 @@
 
 <h1>hola raphael <h1>
      
-        
+    <h2>WELCOME, HI</h2>
         <a name="inicio"></a>
         <nav  id="navInicial"     class="navbar navbar-default navbar-fixed-top">
   <div class="container">
